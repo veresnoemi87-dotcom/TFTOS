@@ -13,7 +13,7 @@ Permission is granted to:
 - Publish as a disturbsion
 
 Prohibited:
-- Modifying, copying, or redistributing the core system files.
-- Using this software to create a competing OS.
+- Modifying the core system files.
+- Using the modified software to create a competing OS.
 
 Violation may result in legal action.
