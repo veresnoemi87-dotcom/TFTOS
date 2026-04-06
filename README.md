@@ -9,7 +9,7 @@ All rights reserved.
 
 Permission is granted to:
 - Run this software.
-- Create new commands (“disturbions”) in Root/System/Commands folder.
+- Create new commands in Root/System/Commands folder.
 - Publish as a disturbsion
 
 Prohibited:
